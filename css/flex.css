@@ -1,0 +1,206 @@
+html, body{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+body {background-color: orange;
+	  height: 100%;
+	  width: 100%;
+}
+
+#section {
+		
+	margin: 5% 0% 0% 0%
+}
+.sec1 {
+	
+	margin: 0% 5% 0% 5%;
+}
+.sec2{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+	margin: 0% 5% ;
+
+}
+.sec3{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0% 5% ;
+
+}
+.division1 {
+	
+	background-color: white;
+	height: 100%;
+	color: black;
+	text-align: center;
+	box-sizing: border-box;
+	margin: 0% 0% 2.5% 0%
+}
+.division1 h2{
+
+padding: 10% 0;
+
+}
+.division2 {
+	
+	width: 47.5%;
+	background-color: white;
+	box-sizing: border-box;
+	text-align: center;
+	margin: 2.5% 2.5% 2.5% 0%
+}
+.division2 h2 {
+	margin: 0;
+	padding: 20% 0;
+}
+
+.division3 {
+	
+	width: 47.5%;
+	background-color: white;
+	box-sizing: border-box;
+	text-align: center;
+	
+	margin: 2.5% 0% 2.5% 2.5%
+}
+.division3 h2 {
+	margin: 0px;
+	padding: 20% 0;
+
+}
+.division4 {
+	
+	width: 30%;
+	background-color: white;
+	box-sizing: border-box;
+	text-align: center;
+	margin: 2.5% 2.5% 5% 0%
+}
+
+.division4 h2 {
+	margin: 0px;
+padding: 30% 0;
+}
+
+.division5 {
+	
+	width: 30%;
+	background-color: white;
+	box-sizing: border-box;
+	text-align: center;
+	
+	margin: 2.5% 2.5% 5% 2.5%
+}
+
+.division5 h2 {
+	margin: 0px;
+	padding: 30% 0;
+
+}
+.division6 {
+	
+	width: 30%;
+	background-color: white;
+	box-sizing: border-box;
+	text-align: center;	
+	margin: 2.5% 0% 5% 2.5%;
+}
+
+.division6 h2 {
+	margin: 0px;
+	padding: 30% 0;
+
+}
+    body {
+        background-color: lightgreen;
+    }
+
+
+	@media only screen and (max-width: 460px) 
+	{
+		body{
+			background-color: violet;
+		}
+
+		.division1 {
+        background-color: gray;
+        height: 120px;
+       
+        width: 100%;
+    }
+    .division1 h2 {
+	margin: 0px;
+	padding: 10% 0;
+
+}  
+    .division2 {
+        background-color: gray;
+        height: 120px;
+        width: 100%;
+        margin: 2.5% 0 2.5% 0%
+            
+       }   
+       .division2 h2 {
+	margin: 0px;
+	padding: 20% 0;
+
+}  
+
+.division3 {
+        background-color: gray;
+        height: 120px;
+        width: 100%;
+        margin: 2.5% 0% 2.5% 0;
+}
+        
+
+.division3 h2 {
+	margin: 0px;
+	padding: 20% 0;
+
+}  
+
+.division4 {
+        background-color: gray;
+       height: 120px;
+        width: 100%;
+        
+}
+.division4 h2 {
+	margin: 0px;
+	padding: 30% 0;
+
+}  
+.division5 {
+        background-color: gray;
+        height:120px;
+        width: 100%;
+        
+}
+.division5 h2 {
+	margin: 0px;
+	padding: 30% 0;
+
+}  
+.division6 {
+        background-color: gray;
+        height:120px;
+        width: 100%;
+        
+}
+.division6 h2 {
+	
+	margin: 0px;
+	padding: 30% 0;
+
+}  
+
+    }
+    
+
+
